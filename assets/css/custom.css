@@ -779,3 +779,11 @@ h1 i, h2 i, h3 i, h4 i, h5 i, h6 i {
     font-size: 24px;
     color: #333;
 }
+.navbar{
+    background-color: white !important;
+    border-bottom: 1px solid #ddd;
+}
+.navbar-nav .nav-link{
+    color: black !important;
+    font-weight: 500;
+}

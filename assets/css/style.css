@@ -103,3 +103,13 @@ select::-ms-expand {
   border-radius:20px;
   background:white;
 }
+.navbar-nav .nav-link:hover{
+    color: #555 !important;
+}
+.navbar-toggler{
+    border: none;
+}
+
+.navbar-toggler-icon{
+    filter: invert(0);
+}
