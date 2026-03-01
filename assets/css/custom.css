@@ -787,3 +787,10 @@ h1 i, h2 i, h3 i, h4 i, h5 i, h6 i {
     color: black !important;
     font-weight: 500;
 }
+.service-block-v6 .col-md-4{
+    min-height: 180px;
+}
+.aboutSection{
+    clear: both;
+    margin-top: 40px;
+}
