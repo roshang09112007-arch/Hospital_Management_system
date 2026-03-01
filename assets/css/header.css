@@ -916,3 +916,13 @@
     height:60px;
     width:auto;
 }
+/* White navbar */
+.navbar{
+    background-color: white !important;
+    border-bottom: 1px solid #ddd;
+}
+
+/* Black menu text */
+.navbar-nav .nav-link{
+    color: black !important;
+}
