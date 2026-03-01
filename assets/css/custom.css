@@ -765,3 +765,17 @@ h1 i, h2 i, h3 i, h4 i, h5 i, h6 i {
 .successBox{
 	display: none;
 } 
+.navbar-toggler {
+    border: none;
+    background: transparent;
+}
+
+.navbar-toggler-icon {
+    background-image: none;
+}
+
+.navbar-toggler::before {
+    content: "☰";
+    font-size: 24px;
+    color: #333;
+}
